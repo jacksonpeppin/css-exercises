@@ -1,0 +1,17 @@
+.odd-elements,
+.third-element {
+    background-color: salmon;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.third-element {
+    font-size: 24px;
+}
+#second-element {
+    color: lightblue;
+    font-size: 36px;
+}
+#fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
